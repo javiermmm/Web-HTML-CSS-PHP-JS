@@ -1,0 +1,38 @@
+*************************************************
+*************************************************
+Alumno: 
+	Javier Martín Moreno-Manzanaro
+Curso: 
+	4º G.I.S.
+Asignatura: 
+	AW
+Nombre de la Web: 
+	Cinefilando
+Descripción:
+	Página web en PHP como proyecto para
+	la asignatura de Aplicaciones Web
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+*************************************************
+A TENER EN CUENTA
+*************************************************
+*************************************************
+La web incluye una identificación de roles: usuario y colaborador. Por defecto, un usuario no puede registrarse como
+colaborador, sino que debe solicitarlo mediante el formuario de contacto. Sólo un administrador, con acceso directo 
+a la Base de Datos, podrá cambiar el rol de un usuario para convertirlo en colaborador.
+El rol de colaborador, habilita una página extra de colaboración en la que es posible enviar informacion de una pelicula.
+Dicha película es añadida a la base de datos, pero NO ES PUBLICADA, ya que en la web solo se muestran peliculas con el estado "publicada".
+Se almacenará con el estado "sin validar" y deberá ser, de nuevo, un administrador con acceso directo a la Base de Datos
+el que cambie el estado de la película a "publicada", para que se muestre en la web (además de puntuar la pelicula).
+Para probar esta pagina y la funcionalidad que ofrece existe un usuario con rol de colaborador cuyos datos de acceso son:
+nick = "javi"
+contraseña = "javi"

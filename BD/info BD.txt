@@ -1,0 +1,8 @@
+*******************************
+INFORMACIÓN DE LA BASE DE DATOS
+*******************************
+
+- El nombre de la base de datos es: "cinefilando"
+- El nombre de usuario para la BD es "javi", y su contraseña es "12345"
+
+***NOTA: Para comprobar esta información, ver el fichero cinefilando/web/php/db_connect
